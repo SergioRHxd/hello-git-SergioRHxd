@@ -1,5 +1,5 @@
 # Hello Git & GitHub 🐙
-## Ya tenía conocimientos previos de Git y GitHub, pero siempre me limitaba a utilizar los mismos tres comandos básicos de siempre (add, commit y push). A lo largo de esta actividad ## descubrí distintas funciones para gestionar mejor el historial, trabajar con ramas y configurar repositorios remotos, y sé que me podrán ser muy útiles al hacer cambios en mis ## proyectos sin miedo a perder avances o romper código que ya funciona.
+## Ya tenía conocimientos previos de Git y GitHub, pero siempre me limitaba a utilizar los mismos tres comandos básicos de siempre (add, commit y push). A lo largo de esta actividad descubrí distintas funciones para gestionar mejor el historial, trabajar con ramas y configurar repositorios remotos, y sé que me podrán ser muy útiles al hacer cambios en mis proyectos sin miedo a perder avances o romper código que ya funciona.
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
